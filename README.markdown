@@ -1,0 +1,1 @@
+This is the classic Stroop task described in Stroop's 1935 article, "Studies of Interference in Serial Verbal Reactions" (http://psychclassics.yorku.ca/Stroop/). It uses the colourise() function in Hadley Wickham's 'testthat' package to allow users to perform the Stroop task by themselves and see their own results.
